@@ -9,4 +9,3 @@ export default function Label(props) {
     <label style={style} htmlFor={props.htmlFor}>{props.text}</label>
   );
 }
-
